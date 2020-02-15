@@ -1,0 +1,24 @@
+{
+  "name": "unsplash-scraper",
+  "version": "1.0.0",
+  "description": "🤖 Web scraper for Unsplash with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node src/scraper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helderburato/unsplash-scraper.git"
+  },
+  "keywords": [],
+  "author": "Helder Burato Berto <helder.burato@gmail.com> (https://helder.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helderburato/unsplash-scraper/issues"
+  },
+  "homepage": "https://github.com/helderburato/unsplash-scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
