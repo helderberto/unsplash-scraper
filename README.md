@@ -1,2 +1,3 @@
-# unsplash-scrapper
-🤖 Web scrapper for Unsplash with NodeJS
+# Unsplash Scraper with NodeJS
+
+🤖 Web scraper for Unsplash with NodeJS
